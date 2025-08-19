@@ -1,7 +1,5 @@
 
 
-
-
 - Compreender os princípios de governança e de gestão em TI
  
 - Estudar frameworks

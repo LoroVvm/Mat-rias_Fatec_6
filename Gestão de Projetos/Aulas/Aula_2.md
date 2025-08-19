@@ -59,4 +59,3 @@ Conhecimento nas 10 áreas exaltadas na [[Gestão de Projetos/Aulas/Aula_1]]
 - Estimativas de custos
 - Orçamento
 - Controle dos custos
-

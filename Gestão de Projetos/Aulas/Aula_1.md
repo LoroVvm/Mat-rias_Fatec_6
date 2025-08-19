@@ -1,7 +1,6 @@
 PMBOK -> PMI
 
 
-
 > [!10 ÁREAS DO CONHECIMENTO]
 > 1. Gerenciamento de aquisições de projeto
 > 2. Gerenciamento da qualidade do projeto
