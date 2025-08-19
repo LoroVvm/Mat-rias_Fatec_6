@@ -26,7 +26,7 @@ Características de projeto
 O que é Gerenciamento de Projetos?  
               É a aplicação de conhecimentos, habilidades e técnicas que visem atingir ou até mesmo exceder as necessidades e expectativas dos clientes e demais partes interessadas no projeto
 
-Conhecimento nas 10 áreas exaltadas na [[Aula_1]]
+Conhecimento nas 10 áreas exaltadas na [[Gestão de Projetos/Aulas/Aula_1]]
 
 
 [[Aula Gestao de Projetos - Conceitos e Areas.pdf#page=24]]
@@ -34,7 +34,7 @@ Conhecimento nas 10 áreas exaltadas na [[Aula_1]]
 
 
 
-==Gerenciamento de Escopo==
+#### ==Gerenciamento de Escopo==
 	Inclui os processos exigidos para garantir que o projeto inclua todo o trabalho requerido e apenas o trabalho requerido para completar o projeto com sucesso
 
 - Iniciação
@@ -43,7 +43,7 @@ Conhecimento nas 10 áreas exaltadas na [[Aula_1]]
 - Verificação do Escopo
 - Controle de Alteração de Escopo
 
-==Gerenciamento de tempo==
+##### ==Gerenciamento de tempo==
 	Inclui processos necessário para assegurar que o projeto será implementado no prazo previsto
 
 - Definição das atividades
@@ -52,7 +52,7 @@ Conhecimento nas 10 áreas exaltadas na [[Aula_1]]
 - Desenvolvimento do Cronograma
 - Controle do Cronograma
 
-==Gerenciamento de Custos==
+###### ==Gerenciamento de Custos==
 	Visa assegurar que o projeto será concluído dentro do orçamento aprovado
 
 - Planejamento de recursos financeiros
